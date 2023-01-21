@@ -3,7 +3,7 @@ pipeline {
      stages {
          stage("hii gaju"){
              steps{
-                 echo "welcome to multibranch pipeline"
+                 echo "welcome to multibranch trigger pipeline"
              }
          }
      }
