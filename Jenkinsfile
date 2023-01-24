@@ -3,7 +3,7 @@ pipeline {
      stages {
          stage("hii gaju"){
              steps{
-                 echo "welcome to aws devops"
+                 echo "welcome gaju"
              }
          }
      }
