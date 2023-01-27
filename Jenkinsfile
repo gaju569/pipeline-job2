@@ -4,7 +4,9 @@ pipeline {
          stage("hii gaju"){
              steps{
 
+
                  echo "welcome to ansible"
+        
              }
          }
      }
