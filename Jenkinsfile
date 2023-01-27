@@ -4,7 +4,7 @@ pipeline {
          stage("hii gaju"){
              steps{
 
-                 echo "welcome to hyd"
+                  echo "welcome to ansible"
              }
          }
      }
