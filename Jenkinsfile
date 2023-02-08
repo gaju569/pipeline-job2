@@ -12,7 +12,7 @@ pipeline {
                  echo "welcome to aws-devops"
 
 
-                 echo "welcome to ansible"
+			 echo "welcome gaju"
         
 
              }
