@@ -12,7 +12,7 @@ pipeline {
                  echo "welcome to aws-devops"
 
 
-			 echo "welcome gaju"
+			 echo "welcome to visual studio code"
         
 
              }
